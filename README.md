@@ -9,4 +9,10 @@
 - 👉 [![GitHub Thaiane](https://img.shields.io/github/followers/zsy-cn?label=follow&style=social)](https://github.com/zsy-cn)
 
 
-![](https://github-readme-stats.vercel.app/api?username=zsy-cn)
+![](https://github-readme-stats.vercel.app/api?username=zsy-cn&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsy-cn&layout=compact)](https://github.com/zsy-cn)
+
+<a href="https://github.com/zsy-cn/English">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zsy-cn&repo=English" />
+</a>
