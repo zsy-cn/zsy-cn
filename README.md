@@ -8,7 +8,7 @@
 - 📫 How to reach me:[Blog](https://zsy-cn.github.io/)
 - 👉 [![GitHub Thaiane](https://img.shields.io/github/followers/zsy-cn?label=follow&style=social)](https://github.com/zsy-cn)
 
-<img align="center" src="https://github.com/zsy-cn/zsy-cn/raw/master/developer.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/zsy-cn/zsy-cn/main/developer.gif"/>
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=zsy-cn&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
   
