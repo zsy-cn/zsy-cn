@@ -10,22 +10,14 @@
 
 ### 语言与工具链
 
-- C
-- Golang
-- macOS
-- Ubuntu
-- Centos
-- VS Code
-- kubernetes
-- Drone
-- Gitea
-- Harbor
-- Hackrf
-- MQTT
-- OPCUA
-- Modbus
-- CAN
-- LoraWAN
+| 编程语言 | 操作系统 | 工具软件 | 协议  |  技术 | 硬件 ｜
+| ----    | ----   | ----    | ----  | ---- | ---- | 
+| C       | macOS  | VS Code | MQTT  | kubernetes | Hackrf |
+| Golang  | Ubuntu | Vim     | OPCUA | Drone | MBP16 |
+|         | Centos |         | Modbus| Git   | ANNE PRO II |
+|         | OpenWRT |        | CAN   |  Harbor    | BOSE QC35|
+|         | tina   |         | LoraWAN | Docker   | |
+|         |        |         | gRPC  |      | |
 
 ### 项目经历
 
