@@ -39,7 +39,7 @@
 | 计步器         | 根据三轴加速度计实现记步                                                          | KL46，低功耗，三轴加速度计，段码屏显示，C                          | `https://github.com/zsy-cn/Pedometer`                       |
 | 电商网站支付   | 对接Stripe、PayPal、Amazon Pay                                                    | golang                                                             | `https://www.aigle.co.jp/` `https://www.lacoste.jp/`|
 | 智慧园区       | 实现园区内设备通过LoRaWAN协议互联，包括环境检测、垃圾桶、井盖、消防栓、温湿度火警 | mips，LoRaWAN，golang                                              |                                                               |
-| 垃圾分类机器人 | 实现垃圾站监控，提供垃圾分类问询                                                  | 语音唤醒，语音识别、多房间流媒体同步，k8s集群，视频监控，c，golang |                                                               |
+| 垃圾分类机器人 | 实现垃圾站监控，提供垃圾分类问询                                                  | 语音唤醒，语音识别、多房间流媒体同步，k8s集群，视频监控，c，golang |   `http://speaker.ery-data.com`                                                            |
 | 物联网系统     | 实现物联网设备管理，数据存储                                                      | opcua，modbus，mqtt，grpc，c，golang                               |                                                               |
 
 <img align="center" src="https://raw.githubusercontent.com/zsy-cn/zsy-cn/main/developer.gif"/>
