@@ -33,7 +33,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/zsy-cn/zsy-cn/main/developer.gif"/>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=zsy-cn&theme=onedark" style="max-width:100%;">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=zsy-cn&theme=onedark" style="max-width:90%;">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zsy-cn&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"/>
 
