@@ -21,9 +21,9 @@
 |            |          | Audacity    | HTTP    |            | FREQ6000 频谱分析仪 |
 |            |          | wireshark   | TCP/IP  |            |                   |
 
-<!-- <img align="center" src="https://raw.githubusercontent.com/zsy-cn/zsy-cn/main/developer.gif"/> -->
+<img align="center" src="https://raw.githubusercontent.com/zsy-cn/zsy-cn/main/developer.gif"/> 
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=zsy-cn&theme=onedark&column=4&margin-w=15&margin-h=15" style="max-width:90%;">
+<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=zsy-cn&theme=onedark&column=4&margin-w=15&margin-h=15" style="max-width:90%;"> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zsy-cn&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"/>
 
