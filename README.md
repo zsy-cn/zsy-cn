@@ -3,11 +3,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=zsy-cn.readme)
 
 - 🔭 I’m currently working on China
-- 🌱 I’m currently learning Golang,kubernetes
-- 🤔 I’m looking for help with Golang,kubernetes
+- 🌱 I’m currently learning Golang，Blockchain
 - 💬 Ask me about IOT,Embedded Hardware
-- 📫 How to reach me:[Blog](https://zsy-cn.github.io/)
-- 👉
+- 👉 How to reach me:[Blog](https://zsy-cn.github.io/)
 
 ### 技能
 
@@ -21,7 +19,7 @@
   | Golang     | Ubuntu   | Vim         | gRPC    | Docker     | BOSE QC35         |
   | javascript | Centos   | DBeaver     | LoraWAN | kubernetes | BOOX MAX PRO2     |
   |            | OpenWRT  | Postman     | Serial  | SQL        | Hackrf            |
-  |            | TinaV2.5 | Typora      | OPCUA   | Bitcoin    | N2201SS 天线分析仪  |
+  |            | TinaV2.5 | Typora      | OPCUA   | Blockchain | N2201SS 天线分析仪  |
   |            |          | Audacity    | HTTP    |            | FREQ6000 频谱分析仪 |
   |            |          | wireshark   | TCP/IP  |            |                   |
   </code></pre>
