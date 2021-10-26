@@ -11,15 +11,21 @@
 
 ### 语言与工具链
 
-|   编程语言  |  操作系统  | 工具软件     | 协议     | 技术       | 硬件               |
-| ---------- | -------- | ----------- | ------- | ---------- | ----------------- |
-| C          | macOS    | VS Code     | MQTT    | Git        | MBP16             |
-| Golang     | Ubuntu   | Vim         | gRPC    | Docker     | BOSE QC35         |
-| javascript | Centos   | DBeaver     | LoraWAN | kubernetes | BOOX MAX PRO2     |
-|            | OpenWRT  | Postman     | Serial  | SQL        | Hackrf            |
-|            | TinaV2.5 | Typora      | OPCUA   | Bitcoin    | N2201SS 天线分析仪  |
-|            |          | Audacity    | HTTP    |            | FREQ6000 频谱分析仪 |
-|            |          | wireshark   | TCP/IP  |            |                   |
+<details>
+  <summary>点击查看详细内容</summary>
+  <p> - 测试 测试测试</p>
+  <pre><code>
+  |   编程语言  |  操作系统  | 工具软件     | 协议     | 技术       | 硬件               |
+  | ---------- | -------- | ----------- | ------- | ---------- | ----------------- |
+  | C          | macOS    | VS Code     | MQTT    | Git        | MBP16             |
+  | Golang     | Ubuntu   | Vim         | gRPC    | Docker     | BOSE QC35         |
+  | javascript | Centos   | DBeaver     | LoraWAN | kubernetes | BOOX MAX PRO2     |
+  |            | OpenWRT  | Postman     | Serial  | SQL        | Hackrf            |
+  |            | TinaV2.5 | Typora      | OPCUA   | Bitcoin    | N2201SS 天线分析仪  |
+  |            |          | Audacity    | HTTP    |            | FREQ6000 频谱分析仪 |
+  |            |          | wireshark   | TCP/IP  |            |                   |
+  </code></pre>
+</details>
 
 <img align="center" src="https://raw.githubusercontent.com/zsy-cn/zsy-cn/main/developer.gif"/> 
 
