@@ -9,11 +9,11 @@
 - 📫 How to reach me:[Blog](https://zsy-cn.github.io/)
 - 👉
 
-### 语言与工具链
+### 技能
 
 <details>
   <summary>点击查看详细内容</summary>
-  <p> - 测试 测试测试</p>
+  <p> 语言与工具链 </p>
   <pre><code>
   |   编程语言  |  操作系统  | 工具软件     | 协议     | 技术       | 硬件               |
   | ---------- | -------- | ----------- | ------- | ---------- | ----------------- |
@@ -35,6 +35,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsy-cn&theme=tokyonight&layout=compact" />
 
+<details>
+  <summary>点击查看详细内容</summary>
+  <p> 关注项目 </p>
+  <pre><code>
 <a href="https://github.com/zsy-cn/English">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zsy-cn&repo=English&theme=tokyonight" />
 </a>
+  </code></pre>
+</details>
