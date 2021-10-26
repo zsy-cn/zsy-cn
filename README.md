@@ -9,6 +9,8 @@
 
 ### 技能
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsy-cn&theme=tokyonight&layout=compact" />
+
 <details>
   <summary>点击查看详细内容</summary>
   <p> 语言与工具链 </p>
@@ -30,8 +32,6 @@
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=zsy-cn&theme=onedark&column=4&margin-w=15&margin-h=15" style="max-width:90%;"> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zsy-cn&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsy-cn&theme=tokyonight&layout=compact" />
 
 <details>
   <summary>关注项目</summary>
