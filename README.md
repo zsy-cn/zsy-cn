@@ -17,7 +17,7 @@
 | Golang     | Ubuntu   | Vim         | gRPC    | Docker     | BOSE QC35         |
 | javascript | Centos   | DBeaver     | LoraWAN | kubernetes | BOOX MAX PRO2     |
 |            | OpenWRT  | Postman     | Serial  | SQL        | Hackrf            |
-|            | TinaV2.5 | Typora      | OPCUA   | Bitcoi     | N2201SS 天线分析仪  |
+|            | TinaV2.5 | Typora      | OPCUA   | Bitcoin    | N2201SS 天线分析仪  |
 |            |          | Audacity    | HTTP    |            | FREQ6000 频谱分析仪 |
 |            |          | wireshark   | TCP/IP  |            |                   |
 
