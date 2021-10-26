@@ -36,8 +36,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsy-cn&theme=tokyonight&layout=compact" />
 
 <details>
-  <summary>点击查看详细内容</summary>
-  <p> 关注项目 </p>
+  <summary>关注项目</summary>
   <pre><code>
 <a href="https://github.com/zsy-cn/English">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zsy-cn&repo=English&theme=tokyonight" />
